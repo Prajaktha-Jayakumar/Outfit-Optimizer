@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+Pillow
+python-multipart
+numpy
+opencv-python
+faiss-cpu
+torch
+transformers
+safetensors
+ftfy
+openai
+requests
+python-dotenv

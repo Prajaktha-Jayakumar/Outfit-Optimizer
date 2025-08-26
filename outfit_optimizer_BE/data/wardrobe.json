@@ -1,0 +1,98 @@
+[
+  {
+    "filename": "RoyalBlueShirt1__60230-2.jpg",
+    "label": "Blue Top",
+    "category": "top",
+    "color": "Blue",
+    "color_hex": "#0000FF",
+    "image": "user_images/RoyalBlueShirt1__60230-2.jpg"
+  },
+  {
+    "filename": "BellaBelleTeaganCrystalRopeGoldStrappyHeels3.jpg.jpg",
+    "label": "Gold Shoe",
+    "category": "shoe",
+    "color": "Gold",
+    "color_hex": "#FFD700",
+    "image": "user_images/BellaBelleTeaganCrystalRopeGoldStrappyHeels3.jpg.jpg"
+  },
+  {
+    "filename": "RoyalBlueShirt1__60230.jpg",
+    "label": "Blue Top",
+    "category": "top",
+    "color": "Blue",
+    "color_hex": "#0000FF",
+    "image": "user_images/RoyalBlueShirt1__60230.jpg"
+  },
+  {
+    "filename": "image4.jpg.jpg",
+    "label": ".Jpg",
+    "category": "unknown",
+    "color": "Unknown",
+    "color_hex": "#808080",
+    "image": "user_images/image4.jpg.jpg"
+  },
+  {
+    "filename": "images-2.jpg",
+    "label": "S 2",
+    "category": "unknown",
+    "color": "Unknown",
+    "color_hex": "#808080",
+    "image": "user_images/images-2.jpg"
+  },
+  {
+    "filename": "image3.jpeg.jpg",
+    "label": ".Jpeg",
+    "category": "unknown",
+    "color": "Unknown",
+    "color_hex": "#808080",
+    "image": "user_images/image3.jpeg.jpg"
+  },
+  {
+    "filename": "A2Y-Women-s-Basic-Solid-Stretchable-Scoop-Neck-Long-Sleeve-Crop-Top-Rust-S_0eba73ee-9440-46c5-80ea-fa4510792420_1.a1e419e6283fd7a549b22a18b01c44a4.jpeg.jpg",
+    "label": "Rust Top",
+    "category": "top",
+    "color": "Rust",
+    "color_hex": "#B7410E",
+    "image": "user_images/A2Y-Women-s-Basic-Solid-Stretchable-Scoop-Neck-Long-Sleeve-Crop-Top-Rust-S_0eba73ee-9440-46c5-80ea-fa4510792420_1.a1e419e6283fd7a549b22a18b01c44a4.jpeg.jpg"
+  },
+  {
+    "filename": "image8.jpg.jpg",
+    "label": ".Jpg",
+    "category": "unknown",
+    "color": "Unknown",
+    "color_hex": "#808080",
+    "image": "user_images/image8.jpg.jpg"
+  },
+  {
+    "filename": "image7.jpeg.jpg",
+    "label": ".Jpeg",
+    "category": "unknown",
+    "color": "Unknown",
+    "color_hex": "#808080",
+    "image": "user_images/image7.jpeg.jpg"
+  },
+  {
+    "filename": "image10.jpg.jpg",
+    "label": ".Jpg",
+    "category": "unknown",
+    "color": "Unknown",
+    "color_hex": "#808080",
+    "image": "user_images/image10.jpg.jpg"
+  },
+  {
+    "filename": "image5.jpg",
+    "label": "",
+    "category": "unknown",
+    "color": "Unknown",
+    "color_hex": "#808080",
+    "image": "user_images/image5.jpg"
+  },
+  {
+    "filename": "images.jpg",
+    "label": "S",
+    "category": "unknown",
+    "color": "Unknown",
+    "color_hex": "#808080",
+    "image": "user_images/images.jpg"
+  }
+]

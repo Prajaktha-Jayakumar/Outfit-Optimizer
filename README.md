@@ -25,7 +25,7 @@ Outfit-Optimizer/
 
 ---
 
-## ⚙️ Backend Setup (FastAPI)
+##  Backend Setup (FastAPI)
 
 ### 1. Navigate to backend
 
@@ -120,7 +120,7 @@ GET /suggest/?event=casual
 
 ---
 
-## ⚠️ Notes
+##  Notes
 
 * Backend must be running before frontend
 * Ensure port `8000` is available
@@ -136,18 +136,18 @@ GET /suggest/?event=casual
 
 ---
 
-## 📸 Screenshots & Examples
+## Screenshots & Examples
 
-### 🔹 Home Screen
+###  Home Screen
 ![Home Screen](assets/screenshots/Homescreen.png)
 
-### 🔹 Upload Clothing Item
+###  Upload Clothing Item
 ![Upload Clothing Item](assets/screenshots/Upload_image.png)
 
-### 🔹 Wardrobe View
+###  Wardrobe View
 ![Wardrobe View](assets/screenshots/Wardrobe.png)
 
-### 🔹 Outfit Suggestions (Casual / Office / Party)
+###  Outfit Suggestions (Casual / Office / Party)
 ![Casual Suggestion](assets/screenshots/Suggestions_casual.png)
 ![Office Suggestion](assets/screenshots/Suggestions_office.png)
 ![Party Suggestion](assets/screenshots/Suggestions_party.png)
